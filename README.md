@@ -1,7 +1,7 @@
 # exceries
 Attending the class
 ## Objective --- this code was used to write the input data for Tor Vergata model (not open source). 
-## Publicaton references
+## Publicaton references (suggest doi)
 [1]
 [2]
 ......
